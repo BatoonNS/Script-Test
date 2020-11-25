@@ -9,7 +9,6 @@ namespace ProgrammingLAB3
         {
             bool backTop = true;
 
-
             while (backTop)
             {
                 Console.WriteLine("-------------------------");
